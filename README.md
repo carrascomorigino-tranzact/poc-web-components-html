@@ -1,1 +1,1 @@
-# poc-web-component-html
+# poc-web-components-html
