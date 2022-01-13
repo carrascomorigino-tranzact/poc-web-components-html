@@ -51,4 +51,4 @@ class Counter extends HTMLElement {
   }
 }
 
-customElements.define('counter-html', Counter);
+customElements.define('html-counter', Counter);

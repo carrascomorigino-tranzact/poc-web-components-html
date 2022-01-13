@@ -1,6 +1,6 @@
 {
-  "name": "@carrascomorigino-tranzact/poc-web-component-html",
-  "version": "1.0.0",
+  "name": "@carrascomorigino-tranzact/poc-web-components-html",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carrascomorigino-tranzact/poc-web-component-html.git"
+    "url": "git+https://github.com/carrascomorigino-tranzact/poc-web-components-html.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/carrascomorigino-tranzact/poc-web-component-html/issues"
+    "url": "https://github.com/carrascomorigino-tranzact/poc-web-components-html/issues"
   },
-  "homepage": "https://github.com/carrascomorigino-tranzact/poc-web-component-html#readme"
+  "homepage": "https://github.com/carrascomorigino-tranzact/poc-web-components-html#readme"
 }
