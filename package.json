@@ -1,0 +1,23 @@
+{
+  "name": "@carrascomorigino-tranzact/poc-web-component-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@carrascomorigino-tranzact"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrascomorigino-tranzact/poc-web-component-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrascomorigino-tranzact/poc-web-component-html/issues"
+  },
+  "homepage": "https://github.com/carrascomorigino-tranzact/poc-web-component-html#readme"
+}
